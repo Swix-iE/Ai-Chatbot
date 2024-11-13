@@ -2,3 +2,4 @@ django
 djangorestframework
 nltk
 django-oauth-toolkit
+openAI
