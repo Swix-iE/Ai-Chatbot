@@ -1,5 +1,5 @@
-.b_test{
-    color: blueviolet;
-    font-size: 100px;
-    
+.navbar{
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    height: 10vh;
+    margin-bottom: 10px;
 }

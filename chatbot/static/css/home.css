@@ -1,5 +1,7 @@
-.h_test{
-    color: red;
-    font-size: 100px;
+textarea{
+    background: blue;
+}
 
+.btn{
+    color: blue;
 }
