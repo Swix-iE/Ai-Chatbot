@@ -11,5 +11,11 @@ AI Chatbot
 {% endblock head %}
 
 {% block content %}
-    <div class="h_test">Home load test</div>
+    <div>
+        <form action="get">
+            <textarea class="prompt-input" rows="5" cols="80" placeholder="Enter your prompt here..." required="True"></textarea>
+            <button class="btn">Generate</button>
+
+        </form>
+    </div>
 {% endblock content %}

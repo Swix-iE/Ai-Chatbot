@@ -1,2 +1,4 @@
 .venv
 admin_creds.txt
+secret.txt
+.env   

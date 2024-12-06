@@ -3,3 +3,4 @@ djangorestframework
 nltk
 django-oauth-toolkit
 openAI
+python-dotenv
